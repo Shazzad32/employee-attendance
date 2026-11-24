@@ -1,0 +1,13 @@
+{
+  "name": "TimeTrack",
+  "short_name": "TimeTrack",
+  "description": "Clock in, clock out, and see every hour counted.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F3F5F8",
+  "theme_color": "#0E1726",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
